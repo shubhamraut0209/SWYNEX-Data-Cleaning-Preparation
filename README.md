@@ -153,3 +153,21 @@ It also reinforced the importance of documenting cleaning assumptions and valida
 ---
 
 *This project was developed for learning and practical application of data cleaning and preparation techniques as part of an internship task.*
+
+---
+
+## 👨‍💻 About Me
+
+**Shubham Umesh Raut**
+
+🎓 B.Sc. Mathematics | M.Sc. Statistics
+📊 Data Analyst Intern @SWYNEX Technologies
+🤖 AI & Data Analytics Enthusiast
+
+
+📫 **LinkedIn:** [Shubham Raut](https://www.linkedin.com/in/shubham-raut-986bb1227/)
+
+💻 **GitHub:** [@shubhamraut0209](https://github.com/shubhamraut0209)
+---
+
+**Turning data into insights through statistics, analytical thinking, and technology.**
