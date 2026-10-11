@@ -1,0 +1,14 @@
+Column,Original_Data_Type,Original_Missing_Count,Original_Missing_Percentage,Original_Unique_Values,Cleaned_Data_Type
+Order_ID,object,0,0.0,12000,object
+Customer_ID,object,0,0.0,3374,object
+Order_Date,object,0,0.0,4229,datetime64[ns]
+Product_Category,object,0,0.0,8,object
+Product_Name,object,0,0.0,46,object
+Quantity,int64,0,0.0,7,int64
+Unit_Price_USD,float64,0,0.0,7791,float64
+Discount_Percent,float64,735,6.03,6,float64
+Payment_Method,object,0,0.0,20,object
+Shipping_City,object,502,4.12,22,object
+Country,object,0,0.0,24,object
+Order_Status,object,0,0.0,5,object
+Customer_Rating,float64,6150,50.49,5,float64
